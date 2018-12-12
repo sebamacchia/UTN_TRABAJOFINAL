@@ -17,7 +17,7 @@ class Mail extends Component {
   handleSubmit = async e => {
     console.log("submit runing");
     e.preventDefault();
-    const form = await axios.post("http://localhost:5000/api/form", {
+    const form = await axios.post("/api/form", {
       name: this.state.name,
       email: this.state.email,
       msg: this.state.msg

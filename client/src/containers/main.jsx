@@ -78,7 +78,7 @@ class Main extends Component {
         console.log(response.data);
       });
 
-    axios.get("http://localhost:5000/api/items").then(response => {
+    axios.get("/api/items").then(response => {
       this.setState({ banks: response.data });
     });
 
@@ -394,7 +394,7 @@ class Main extends Component {
   };
   editHandler = () => {
     this.setState({ editing: true });
-    axios.get("http://localhost:5000/api/items").then(response => {
+    axios.get("/api/items").then(response => {
       this.setState({ banks: response.data });
       console.log(this.state.banks);
     });
