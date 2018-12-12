@@ -65,8 +65,6 @@ class App extends Component {
       index16: this.state.indexes.index16
     };
     this.props.addItem(newItem);
-
-    //NODEMAILER
   };
 
   render() {
@@ -147,7 +145,7 @@ class App extends Component {
           <input
             type="text"
             name="indexes.index9"
-            placeholder="indexes.index9"
+            placeholder="sample 9"
             onChange={this.onChange}
           />
           <br />

@@ -430,7 +430,7 @@ class Main extends Component {
           EDIT
         </div>
         {/* LOAD DIV */}
-        <div className="item" onClick={this.saveHandler} />
+        <div className="item" onClick={} />
         {/* ADD DIV */}
         <div className="item" onClick={this.loadHandler}>
           ADD
@@ -564,7 +564,7 @@ class Main extends Component {
               visibility: this.state.editing ? "visible" : "hidden"
             }}
           >
-            <h2>SELECCIONAR UN BANCO DE SONIDOS</h2>
+            <h2>SELECCIONAR UN BANCO DE SONIDOS:</h2>
             {this.state.banks.map(bank => {
               return (
                 <li
