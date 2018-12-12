@@ -1,0 +1,12 @@
+.logo {
+  font-size: 5 vh;
+}
+
+.logo:active {
+  text-shadow: none;
+}
+
+.logo:hover {
+  font-size: 6vh;
+  color: rgb(255, 81, 217);
+}

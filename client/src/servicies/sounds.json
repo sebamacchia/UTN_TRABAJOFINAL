@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "aplause_de_adriana",
+    "created_at": "2012-04-24T10:29:00Z",
+    "updated_at": "2012-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 51,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/oneshotdrum/aplauso_de_adriana.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 2,
+    "name": "artblakey_05_01REDO2",
+    "created_at": "2012-04-24T10:29:00Z",
+    "updated_at": "2012-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/oneshotdrum/art%20blakey%20_05_01%20REDO%202.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 3,
+    "name": "art_blakey_05_01 REDO.wav",
+    "created_at": "2012-04-24T10:29:00Z",
+    "updated_at": "2012-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/oneshotdrum/art%20blakey%20_05_01%20REDO.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 4,
+    "name": "bateria_espectacular-CHH.wav",
+    "created_at": "2012-04-24T10:29:00Z",
+    "updated_at": "2012-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/oneshotdrum/bateria%20espectacular%20-%20CHH.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 5,
+    "name": "bateria_espectacular-CHH2.wav",
+    "created_at": "2012-04-24T10:29:00Z",
+    "updated_at": "2012-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/oneshotdrum/bateria%20espectacular%20-%20CHH2.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 6,
+    "name": "bateria_espectacular-doblesnare.wav",
+    "created_at": "2012-04-24T10:29:00Z",
+    "updated_at": "2012-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/oneshotdrum/bateria%20espectacular%20-%20doble%20snare.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 7,
+    "name": "bateria_espectacular-doble snare2.wav",
+    "created_at": "2012-04-24T10:29:00Z",
+    "updated_at": "2012-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/oneshotdrum/bateria%20espectacular%20-%20doble%20snare2.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 8,
+    "name": "bateria_espectacular-kick2.wav",
+    "created_at": "2012-04-24T10:29:00Z",
+    "updated_at": "2012-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/oneshotdrum/bateria%20espectacular%20-%20kick%202.wav",
+    "category": "drumshot",
+    "loop": "false"
+  },
+  {
+    "id": 9,
+    "name": "bateria_   espectacular-kick.wav",
+    "created_at": "2012-04-24T10:29:00Z",
+    "updated_at": "2012-12-04T08:24:51Z",
+    "duration": 218.48,
+    "size": 78.4,
+    "src": "https://raw.githubusercontent.com/sebamacchia/thesamplist/master/thesamplist/src/assets/sounds/oneshotdrum/bateria%20espectacular%20-%20kick.wav",
+    "category": "drumshot",
+    "loop": "false"
+  }
+]
