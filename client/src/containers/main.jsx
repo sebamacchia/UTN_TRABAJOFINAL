@@ -464,67 +464,81 @@ class Main extends Component {
         </div>
         <div
           className="Sampler"
-          onClick={() => this.handlePlaySound6(this.state.index6)}
+          onClick={() => this.handlePlaySound6(this.state.selectedBank.index6)}
         >
           <Sampler title={"W"} pressed={this.state.pressedClass6} />
         </div>
         <div
           className="Sampler"
-          onClick={() => this.handlePlaySound7(this.state.index7)}
+          onClick={() => this.handlePlaySound7(this.state.selectedBank.index7)}
         >
           <Sampler title={"E"} pressed={this.state.pressedClass7} />
         </div>
         <div
           className="Sampler"
-          onClick={() => this.handlePlaySound8(this.state.index4)}
+          onClick={() => this.handlePlaySound8(this.state.selectedBank.index8)}
         >
           <Sampler title={"R"} pressed={this.state.pressedClass8} />
         </div>
         <div
           className="Sampler"
-          onClick={() => this.handlePlaySound9(this.state.index9)}
+          onClick={() => this.handlePlaySound9(this.state.selectedBank.index9)}
         >
           <Sampler title={"A"} pressed={this.state.pressedClass9} />
         </div>
         <div
           className="Sampler"
-          onClick={() => this.handlePlaySound10(this.state.index10)}
+          onClick={() =>
+            this.handlePlaySound10(this.state.selectedBank.index10)
+          }
         >
           <Sampler title={"S"} pressed={this.state.pressedClass10} />
         </div>
         <div
           className="Sampler"
-          onClick={() => this.handlePlaySound11(this.state.index11)}
+          onClick={() =>
+            this.handlePlaySound11(this.state.selectedBank.index11)
+          }
         >
           <Sampler title={"D"} pressed={this.state.pressedClass11} />
         </div>
         <div
           className="Sampler"
-          onClick={() => this.handlePlaySound12(this.state.index12)}
+          onClick={() =>
+            this.handlePlaySound12(this.state.selectedBank.index12)
+          }
         >
           <Sampler title={"F"} pressed={this.state.pressedClass12} />
         </div>
         <div
           className="Sampler"
-          onClick={() => this.handlePlaySound13(this.state.index13)}
+          onClick={() =>
+            this.handlePlaySound13(this.state.selectedBank.index13)
+          }
         >
           <Sampler title={"Z"} pressed={this.state.pressedClass13} />
         </div>
         <div
           className="Sampler"
-          onClick={() => this.handlePlaySound14(this.state.index14)}
+          onClick={() =>
+            this.handlePlaySound14(this.state.selectedBank.index14)
+          }
         >
           <Sampler title={"X"} pressed={this.state.pressedClass14} />
         </div>
         <div
           className="Sampler"
-          onClick={() => this.handlePlaySound15(this.state.index15)}
+          onClick={() =>
+            this.handlePlaySound15(this.state.selectedBank.index15)
+          }
         >
           <Sampler title={"C"} pressed={this.state.pressedClass15} />
         </div>
         <div
           className="Sampler"
-          onClick={() => this.handlePlaySound16(this.state.index16)}
+          onClick={() =>
+            this.handlePlaySound16(this.state.selectedBank.index16)
+          }
         >
           <Sampler2 title={"V"} pressed={this.state.pressedClass16} />
         </div>
