@@ -97,7 +97,7 @@ class Main extends Component {
       this.setState({ pressedClass2: true });
     }
     if (e.key === "3" && !this.state.loading) {
-      this.handlePlaySound3(this.state.selectedBank.index13);
+      this.handlePlaySound3(this.state.selectedBank.index3);
       this.setState({ pressedClass3: true });
     }
     if (e.key === "4" && !this.state.loading) {
