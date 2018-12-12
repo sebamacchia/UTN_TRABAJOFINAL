@@ -79,7 +79,7 @@ app.post("/api/form", (req, res) => {
 });
 
 //static asset para cuando esta en produccion
-if (proccess.env.NODE_ENV === "production") {
+if (process.env.NODE_ENV === "production") {
   //folder estatico
   app.use(express.static("client/build"));
 
