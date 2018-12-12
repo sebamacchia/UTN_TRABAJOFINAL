@@ -380,7 +380,7 @@ class Main extends Component {
   };
 
   saveHandler = e => {
-    this.setState({ saving: true });
+    this.setState({ saving: false });
   };
   saveCloseHandler = () => {
     this.setState({ saving: false });
@@ -430,7 +430,7 @@ class Main extends Component {
           EDIT
         </div>
         {/* LOAD DIV */}
-        <div className="item" onClick={} />
+        <div className="item" onClick={this.saveHandler} />
         {/* ADD DIV */}
         <div className="item" onClick={this.loadHandler}>
           ADD
