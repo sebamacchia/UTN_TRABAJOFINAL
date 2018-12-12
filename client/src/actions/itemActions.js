@@ -9,10 +9,6 @@ export const getItems = () => dispatch => {
       payload: res.data
     })
   );
-
-  // return {
-  //   type: GET_ITEMS
-  // };
 };
 
 export const addItem = item => dispatch => {

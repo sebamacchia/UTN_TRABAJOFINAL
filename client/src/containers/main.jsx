@@ -61,7 +61,7 @@ class Main extends Component {
     pressedClass14: false,
     pressedClass15: false,
     pressedClass16: false,
-    //mostrar o esconder el modal de save
+    //mostrar o esconder lod modals
     saving: false,
     loading: false,
     editing: false,
@@ -564,6 +564,7 @@ class Main extends Component {
               visibility: this.state.editing ? "visible" : "hidden"
             }}
           >
+            <h2>SELECCIONAR UN BANCO DE SONIDOS</h2>
             {this.state.banks.map(bank => {
               return (
                 <li
