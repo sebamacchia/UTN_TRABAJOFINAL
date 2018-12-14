@@ -16,12 +16,6 @@ import Select from "../components/Select/Select";
 import { connect } from "react-redux";
 import { getItems } from "../actions/itemActions";
 
-const options = [
-  { value: "chocolate", label: "Chocolate" },
-  { value: "strawberry", label: "Strawberry" },
-  { value: "vanilla", label: "Vanilla" }
-];
-
 class Main extends Component {
   state = {
     sounds: [], //donde se almacenan los datos del json
