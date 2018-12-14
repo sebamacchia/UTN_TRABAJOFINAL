@@ -18,4 +18,6 @@ Para los efectos de sonido use la libreria tuna.js
 La app es responsive sin manejar media querys, usando solo css-grid
 
 <h3>Ajax</h3>
-Para el fetching del archivo json use la libreria axios
+Para el get y post del archivo de sonidos, del mongodb y del mail use la libreria axios
+
+n
