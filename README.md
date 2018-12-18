@@ -8,7 +8,7 @@ La aplicacion es uns single web aplication que emula un instrumento musical llam
 <br>
 <h3>Componentes</h3>
 Use 9 componentes:
-logo, bank, help, contacto, sampler(utilizado 16 veces)...record??
+logo, bank, help, contacto, sampler(utilizado 16 veces)
 
 <h3>Dependencias</h3>
 Para el manejo del Web Audio Api utilice la libreria Horler.js https://howlerjs.com/
@@ -20,4 +20,8 @@ La app es responsive sin manejar media querys, usando solo css-grid
 <h3>Ajax</h3>
 Para el get y post del archivo de sonidos, del mongodb y del mail use la libreria axios
 
-n
+<h3>Mail</h3>
+Para chequear si llego el mail estas son las credenciales:
+        link: https://ethereal.email/
+        user: "bvrsndysmeo6c7em@ethereal.email",
+        pass: "3QBnyZU6DcWhjzh2Zn"
